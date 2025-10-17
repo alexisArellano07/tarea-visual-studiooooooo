@@ -1,0 +1,17 @@
+C:\Users\alexc\source\repos\pracika 1\pracika 1\bin\Debug\net8.0-windows\pracika 1.exe
+C:\Users\alexc\source\repos\pracika 1\pracika 1\bin\Debug\net8.0-windows\pracika 1.deps.json
+C:\Users\alexc\source\repos\pracika 1\pracika 1\bin\Debug\net8.0-windows\pracika 1.runtimeconfig.json
+C:\Users\alexc\source\repos\pracika 1\pracika 1\bin\Debug\net8.0-windows\pracika 1.dll
+C:\Users\alexc\source\repos\pracika 1\pracika 1\bin\Debug\net8.0-windows\pracika 1.pdb
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika_1.Form1.resources
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika_1.Properties.Resources.resources
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.AssemblyInfo.cs
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.dll
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\refint\pracika 1.dll
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.pdb
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\pracika 1.genruntimeconfig.cache
+C:\Users\alexc\source\repos\pracika 1\pracika 1\obj\Debug\net8.0-windows\ref\pracika 1.dll
